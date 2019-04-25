@@ -5,7 +5,7 @@
 # What is the largest prime factor of the number 600851475143 ?
 
 
-def is_prime(n: int) -> int:
+def is_prime(n: int) -> bool:
     """
         checks whether a given int is a prime number
     """
