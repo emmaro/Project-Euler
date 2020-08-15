@@ -1,3 +1,3 @@
 # Project-Euler
 
-My attempts at with python to solve some problems found on [project euler](https://projecteuler.net/archives).
+My attempt at solving some problems found on [project euler](https://projecteuler.net/archives) with python.
